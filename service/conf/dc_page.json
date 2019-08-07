@@ -1,0 +1,15 @@
+{
+    "logo": {
+        "tag": "span",
+        "attr": {
+            "title": "DCWEB1.2.12",
+            "style": "font-size: 24px; -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-image:-webkit-linear-gradient(left, #194487,#eba918,#d02825);"
+        },
+        "content": "DCWEB"
+    },
+    "tabIcon": "static/images/logo.png",
+    "title": "DCWEB1.2.12",
+    "loginTitle": "DCWEB",
+    "loginTips": "Dcweb1.2.12 powered by DCStudio_2.0.1",
+    "headerBackgroundColor": "#9fb6d7"
+}

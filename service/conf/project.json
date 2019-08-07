@@ -1,0 +1,13 @@
+[{
+    "path": "/",
+    "file": "/dist/index.html"
+}, {
+    "path": "/dcweb",
+    "file": "/dist/index.html"
+}, {
+    "path": "/monitor",
+    "file": "/monitor/index.html"
+}, {
+    "path": "/configure",
+    "file": "/configure/index.html"
+}]

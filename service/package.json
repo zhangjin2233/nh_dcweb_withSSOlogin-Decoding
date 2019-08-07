@@ -1,0 +1,28 @@
+{
+  "name": "service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "iconv-lite": "^0.4.24",
+    "install": "^0.12.2",
+    "koa": "^2.6.1",
+    "koa-proxies": "^0.8.1",
+    "koa-route": "^3.2.0",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0",
+    "koa-websocket": "^5.0.1",
+    "koa2-request-middleware": "^2.2.11",
+    "npm": "^6.7.0",
+    "request-promise": "^4.2.2"
+  },
+  "dependencies": {
+    "jquery.json-viewer": "^1.1.0"
+  }
+}

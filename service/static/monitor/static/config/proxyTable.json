@@ -1,0 +1,10 @@
+{
+    "/ebook" : {
+        "target": "http://10.0.0.47:3000",
+        "changeOrigin": true
+    },
+    "/api": {
+        "target": "http://10.0.0.47:3000",
+        "changeOrigin": true
+    }
+}

@@ -56,7 +56,7 @@ export default {
           num=1
         }
         if(false===this.$store.state.isLogin){
-          // window.location.href="http://10.251.4.168/uac/web3/jsp/login/login.jsp"; 
+          // window.location.href="http://10.251.4.168/uac/web3/jsp/login/login.jsp";  
           window.location.href=ipAddress;
         }
         // ========================================================

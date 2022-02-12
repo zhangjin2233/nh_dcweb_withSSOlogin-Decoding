@@ -14,7 +14,7 @@
     "stop": "pm2 delete dc"
   },
   "dependencies": {
-    "ajv": "^6.0.0",
+    "ajv": "^6.12.3",
     "babel-polyfill": "^6.26.0",
     "d3": "^5.7.0",
     "dagre-d3": "^0.6.3",
